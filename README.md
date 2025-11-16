@@ -114,7 +114,7 @@ This is a **WhatsApp bot** built using the **Baileys** library for group managem
 
 ```bash
 # 1. Clone your forked repo
-git clone https://github.com/YOUR-USERNAME/VAMPARINA-V1.git
+git clone https://github.com/arnold6001/VAMPARINA-V1.git
 cd VAMPARINA-V1
 
 # 2. Install dependencies
